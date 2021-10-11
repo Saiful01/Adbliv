@@ -28,7 +28,7 @@
             <div class="row ">
                 <div class="col-lg-4 col-md-6">
                     <div class="iq-footer-logo">
-                        <a href="/"><img src="/images/Adbiliv-png.png" class="img-fluid" alt="image"></a>
+                        <a href="/"><img src="/images/Adbiliv-bg-transparent.png" class="img-fluid" alt="image"></a>
                     </div>
                     <div class="footer-copyright mb-4 iq-fw-5 mt-3">©Copyrights 2021 Adbliv</div>
                     <div>

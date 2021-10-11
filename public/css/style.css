@@ -1823,13 +1823,14 @@ Our Client Section
 }
 
 #clients-slider .owl-item img {
-    -webkit-filter: grayscale(100%);
-/ Ch 23 +, Saf 6.0 +, BB 10.0 + / filter: grayscale(100 %);
-/ FF 35 + /
+    -webkit-filter: none;
 }
 
 #clients-slider .owl-item img:hover {
-    -webkit-filter: none;
+
+    -webkit-filter: grayscale(100%);
+/ Ch 23 +, Saf 6.0 +, BB 10.0 + / filter: grayscale(100 %);
+/ FF 35 + /
     filter: none;
 }
 
