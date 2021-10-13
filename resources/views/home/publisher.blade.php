@@ -21,82 +21,102 @@
                          style="transform: translate3d(-480px, 0px, 0px); transition: all 0.25s ease 0s; width: 1680px;">
                         <div class="owl-item" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P1.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/1.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P2.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/2.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P3.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/3.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P4.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/4.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P5.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/5.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P6.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/6.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P7.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/7.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P8.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/8.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P9.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/9.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P10.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/10.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P11.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/11.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P12.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/12.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P13.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/13.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P14.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/14.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P15.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/15.png" class="img-fluid " alt="">
                             </div>
                         </div>
                         <div class="owl-item active" style="width: 210px; margin-right: 30px;">
                             <div class="clients-box">
-                                <img src="/images/P16.png" class="img-fluid " alt="">
+                                <img src="/images/Publisher/16.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/Publisher/17.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/Publisher/18.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/Publisher/19.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/Publisher/20.png" class="img-fluid " alt="">
                             </div>
                         </div>
                     </div>

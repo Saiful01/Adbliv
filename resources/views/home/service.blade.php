@@ -1,6 +1,14 @@
 <section id="service">
     <div class="container">
         <div class="row">
+            <div class="col-sm-12 text-center">
+                <div class="section-title">
+                    {{-- <p class="mt-2 text-uppercase iq-fw-3 iq-ls-3">Best Ever Services</p>--}}
+                    <h2 class="title  iq-fw-8">Our Services</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="team-box mb-4">
                     <div class="team-img text-center">
