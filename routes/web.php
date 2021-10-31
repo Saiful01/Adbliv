@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home.index');
 });
+
+Route::get('/new', function () {
+    return view('home.new');
+});
 Route::post('/contact/save', function (\Illuminate\Http\Request $request) {
     //return $request->all();
     $name= $request['name'];

@@ -4,7 +4,7 @@
             <div class="col-sm-12 text-center">
                 <div class="section-title">
                     {{-- <p class="mt-2 text-uppercase iq-fw-3 iq-ls-3">Best Ever Services</p>--}}
-                    <h2 class="title  iq-fw-8">About Us</h2>
+                   {{-- <h2 class="title  iq-fw-8">About Us</h2>--}}
                 </div>
             </div>
         </div>
