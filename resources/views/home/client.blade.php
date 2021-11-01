@@ -1,10 +1,10 @@
-<div class="iq-clients overview-block-ptb w-100 bg-light  d-inline-block">
+<div class="iq-clients overview-block-ptb w-100 bg-light  d-inline-block"  id="advertiser">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="section-title">
                    {{-- <p class="mb-0 text-uppercase iq-fw-5 iq-ls-2">our partners</p>--}}
-                    <h2 class="title iq-fw-8">advertiser who love us</h2>
+                    <h2 class="title iq-fw-8">Advertiser who love us</h2>
                 </div>
             </div>
         </div>

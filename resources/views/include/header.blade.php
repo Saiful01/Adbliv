@@ -25,12 +25,12 @@
                                 <!-- drop down full width -->
 
                             </li>
-                            <li>
+                          {{--  <li>
                                 <a href="#portfolio">Portfolio</a>
 
-                            </li>
+                            </li>--}}
                             <li>
-                                <a href="#publisher">Publisher</a>
+                                <a href="#services">Our Services</a>
 
                             </li>
                             <li>
@@ -38,7 +38,7 @@
 
                             </li>
                             <li>
-                                <a href="#publisher">Publisher</a>
+                                <a href="#advertiser">Advertiser</a>
 
                             </li>
 

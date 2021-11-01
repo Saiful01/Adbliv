@@ -5,7 +5,7 @@
         line-height: 30px;
     }
 </style>
-<section id="service">
+<section id="services">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
@@ -24,7 +24,7 @@
                     <div class="team-detail">
                         {{--<a class="team-plus" href="javascript:void(0)"><i class="fas fa-plus"></i></a>--}}
                         <div class="team-info" style="height: 65px">
-                            <h6 class="mb-0"><a href="#">Adbliv Add Network</a></h6>
+                            <h6 class="mb-0"><a href="#">Adbliv Ad Network</a></h6>
                             {{--<span class="mb-0 text-gray iq-fw-4">Web Designer</span>--}}
                         </div>
                     </div>
