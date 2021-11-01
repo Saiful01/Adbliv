@@ -12,21 +12,23 @@
     @include('home.about')
     @include('home.overview')
     @include('home.service')
-    @include('home.inventory')
+{{--    @include('home.inventory')--}}
     <!-- portfolio -->
-    @include('home.portfolio')
+   {{-- @include('home.portfolio')--}}
         <!-- portfolio END -->
         <!-- Gallery  -->
-    @include('home.gallery')
+{{--    @include('home.gallery')--}}
         <!-- Gallery END -->
         <!-- Works -->
     @include('home.publisher')
         <!-- Works END -->
         <!-- Our Clients -->
     @include('home.client')
+
+    @include('home.agency_publisher')
         <!-- Our Clients END -->
         <!-- Our Clients Testimonial -->
-    @include('home.testimonial')
+{{--    @include('home.testimonial')--}}
         <!-- Our Clients Testimonial END -->
         <!-- Our Contact -->
     @include('home.contact')

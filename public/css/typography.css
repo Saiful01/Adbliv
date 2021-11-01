@@ -14,7 +14,7 @@ NOTE: This file contains the styling for responsive Template.
 :: Text color
 :: Extra class
 :: Buttons
-:: Page Section Margin Padding 
+:: Page Section Margin Padding
 :: Background  color
 :: BG - Images
 :: Background overlay color
@@ -110,7 +110,7 @@ a:focus {
 }
 
 a:focus, a:hover {
-	color: #33e2a0;
+	color: #EE3243;
 	text-decoration: none !important;
 }
 
@@ -297,7 +297,7 @@ Letter Spacing
 }
 
 /*----------------------------------------------
-Section padding 
+Section padding
 ------------------------------------------------*/
 .overview-block-ptb {
 	padding: 80px 0;
@@ -407,7 +407,7 @@ Text color
 }
 
 .text-green {
-	color: #33e2a0;
+	color: #EE3243;
 }
 
 /*---------------------------------------------------------------------
@@ -434,7 +434,7 @@ Background  color
 }
 
 .green-bg {
-	background: #33e2a0;
+	background: #EE3243;
 }
 
 .light-main-bg {
@@ -770,7 +770,7 @@ Background overlay color
 	font-weight: 700;
 	border: none;
 	position: relative;
-	background: #33e2a0;
+	background: #EE3243;
 	font-family: 'Nunito', sans-serif;
 	display: inline-block;
 	-webkit-border-radius: 90px;
@@ -807,7 +807,7 @@ Background overlay color
 }
 
 .first {
-	background-color: #33e2a0;
+	background-color: #EE3243;
 	color: #fff;
 }
 
@@ -844,10 +844,10 @@ Background overlay color
 }
 
 .button.bt-border:hover, .button.bt-border:focus {
-	color: #33e2a0;
+	color: #EE3243;
 	background: #ffffff;
 	outline: none;
-	border: 2px solid #33e2a0;
+	border: 2px solid #EE3243;
 }
 
 /* Subscribe Button */
@@ -867,7 +867,7 @@ footer.footer-one .bt-subscribe {
  Border
 -----------------------------------------------------------------------*/
 .border-green {
-	border-color: #33e2a0;
+	border-color: #EE3243;
 }
 
 /*----------------------------------------------------------------------
@@ -892,7 +892,7 @@ input[type="checkbox"], input.form-control[type="checkbox"] {
 	margin-top: 0.5rem;
 	background: #fff;
 	height: auto;
-	border: 1px solid #33e2a0;
+	border: 1px solid #EE3243;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	border-radius: 2px;
@@ -979,7 +979,7 @@ Back to Top
 }
 
 #back-to-top .top:hover {
-	background: #33e2a0;
+	background: #EE3243;
 }
 
 .footer-three #back-to-top .top {

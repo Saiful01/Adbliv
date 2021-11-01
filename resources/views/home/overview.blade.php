@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row flex-row-reverse">
             <div class="col-lg-6 align-self-center text-center">
-                <img src="/images/others/3.png" class="img-responsive img-fluid wow fadeInRight" id="img" alt="image" style="visibility: visible; animation-name: fadeInRight;">
+                <img src="/images/service.jpg" class="img-responsive img-fluid wow fadeInRight" id="img" alt="image" style="visibility: visible; animation-name: fadeInRight;">
             </div>
             <div class="col-lg-6 align-self-center img-fluid wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                 <h2 class="iq-fw-8 mb-2 iq-mt-40">Adbliv Overview</h2>

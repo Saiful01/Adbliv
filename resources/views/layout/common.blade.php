@@ -5,9 +5,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>ADBliv</title>
+    <title>Adbliv - Authentic, Organic & Transparent</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="shortcut icon" href="/images/logo.png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <!-- Settings CSS -->
@@ -18,14 +18,43 @@
     <link rel="stylesheet" href="/css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="/css/responsive.css">
+
+    <style>
+        header {
+            background: #ffff;
+            padding-bottom: 27px;
+        }
+
+        .slider{
+            opacity: 0.8;
+        }
+
+        .carousel-caption {
+            position: absolute;
+            top:-40px
+        }
+
+        header .mega-menu .menu-logo > li > a img {
+            height: 55px !important;
+        }
+
+        @media (max-width: 767px){
+            header {
+                background: #ffff;
+                padding-bottom: 0px;
+            }
+        }
+
+
+    </style>
 </head>
 <body>
 <!-- loading -->
-<div id="loading">
+{{--<div id="loading">
     <div id="loading-center">
         <img src="/images/loader.gif" alt="loder">
     </div>
-</div>
+</div>--}}
 <!-- loading End -->
 <!-- Header -->
 @include('include.header')

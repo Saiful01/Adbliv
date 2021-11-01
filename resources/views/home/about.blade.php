@@ -1,4 +1,4 @@
-<section class="iq-solutions pt-0" id="about">
+<section class="iq-solutions" id="about">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
@@ -19,7 +19,7 @@
 
             </div>
             <div class="col-lg-6">
-                <img width="80%" src="/images/picture1.png" class="img-fluid wow fadeInLeft" alt=""
+                <img width="80%" src="/images/who_we_are.jpg" class="img-fluid wow fadeInLeft" alt=""
                      style="visibility: visible; animation-name: fadeInLeft;">
             </div>
         </div>

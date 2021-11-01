@@ -1,3 +1,4 @@
+{{--
 <div class="iq-banner">
     <div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="marketive-1"
          style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
@@ -222,4 +223,43 @@
             <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
         </div>
     </div>
+</div>
+--}}
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/images/sl1.jpg" alt="Slider" class="slider" width="100%" height="auto">
+           {{-- <div class="carousel-caption text-left">
+                <h3>Ad Networks</h3>
+                <p>Boost your business with an all-in-one solution</p>
+            </div>
+--}}
+        </div>
+        <div class="carousel-item">
+            <img src="/images/sl2.jpg" alt="Slider" class="slider" width="100%" height="auto">
+
+        </div>
+        <div class="carousel-item">
+            <img src="/images/sl3.jpg" alt="Slider" class="slider" width="100%" height="auto">
+
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
 </div>

@@ -222,14 +222,14 @@ header .mega-menu .drop-down-multilevel a {
 }
 
 header .mega-menu .menu-links > li > a:hover, header .mega-menu .menu-links > li > a.active {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header .mega-menu .menu-links > li > a.active::before, header .mega-menu .menu-links > li > a:hover:before {
     content: ". . .";
     position: absolute;
     bottom: -12px;
-    color: #33e2a0;
+    color: #EE3243;
     text-align: center;
     width: 100%;
     left: 0;
@@ -301,7 +301,7 @@ li.menu-contact::before {
 
 header .mega-menu .menu-search-bar i.fas.fa-search {
     cursor: pointer;
-    background: #33e2a0;
+    background: #EE3243;
     border-radius: 90px;
     right: 30px;
     height: 48px;
@@ -314,7 +314,7 @@ header .mega-menu .menu-search-bar i.fas.fa-search:hover {
 }
 
 header .mega-menu .drop-down-multilevel li:hover, header .mega-menu .drop-down-multilevel li.active {
-    background: #33e2a0;
+    background: #EE3243;
 }
 
 header .mega-menu .drop-down-multilevel li:hover > a, header .mega-menu .drop-down-multilevel li.active > a {
@@ -322,7 +322,7 @@ header .mega-menu .drop-down-multilevel li:hover > a, header .mega-menu .drop-do
 }
 
 header .mega-menu .menu-search-bar li:hover i.fa.fa-search {
-    background: #33e2a0;
+    background: #EE3243;
 }
 
 header .mega-menu .drop-down-multilevel {
@@ -336,7 +336,7 @@ header.header-three .mega-menu .menu-links > li > a {
 }
 
 header.header-three .mega-menu .menu-links > li > a:hover, header.header-three .mega-menu .menu-links > li > a.active {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-three .mega-menu .menu-links > li > a.active::before, header .mega-menu .menu-links > li > a:hover::before {
@@ -348,11 +348,11 @@ header.header-three .menu-contact {
 }
 
 header.header-one .menu-contact a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 #menu-1 .menu-sidebar a {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
 }
 
@@ -407,7 +407,7 @@ header.header-two .mega-menu > section.menu-list-items {
 }
 
 .header-top-bar li a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-two .mega-menu .menu-search-bar i.fa.fa-search {
@@ -423,7 +423,7 @@ header.header-two .mega-menu .menu-links > li > a {
 }
 
 header.header-two .mega-menu .menu-links > li > a:hover, header.header-two .mega-menu .menu-links > li > a.active {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-two .mega-menu.desktopTopFixed .menu-list-items, header.header-two .mega-menu.mobileTopFixed .menu-list-items {
@@ -458,7 +458,7 @@ header.header-three .menu-contact li::before {
 }
 
 header.header-three .menu-contact a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-three .mega-menu .menu-links {
@@ -475,7 +475,7 @@ header.header-three .mega-menu .menu-links {
 }
 
 .header-navbar .navbar .navbar-nav .nav-link:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-two .mega-menu.desktopTopFixed .hamburger {
@@ -515,7 +515,7 @@ header.header-four .mega-menu > section.menu-list-items {
 }
 
 .header-top-bar li a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-four .mega-menu .menu-search-bar i.fa.fa-search {
@@ -531,7 +531,7 @@ header.header-four .mega-menu .menu-links > li > a {
 }
 
 header.header-four .mega-menu .menu-links > li > a:hover, header.header-four .mega-menu .menu-links > li > a.active {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 header.header-four .mega-menu.desktopTopFixed .menu-list-items, header.header-four .mega-menu.mobileTopFixed .menu-list-items {
@@ -648,7 +648,7 @@ Solution Section
 }
 
 .iq-address h4 i {
-    color: #33e2a0;
+    color: #EE3243;
     width: 30px;
     text-align: center;
 }
@@ -850,7 +850,7 @@ How work section
 }
 
 .iq-work .readmore:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .iq-work-id {
@@ -873,7 +873,7 @@ How work section
 }
 
 .iq-work:hover .iq-work-id {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
 }
 
@@ -1001,7 +1001,7 @@ video section
     margin-left: -30px;
     margin-top: -30px;
     background-color: #ffffff;
-    color: #33e2a0;
+    color: #EE3243;
     width: 80px;
     height: 80px;
     display: inline-block;
@@ -1273,7 +1273,7 @@ Service section
 
 .service-shap.green {
     background-color: #d6f9ec;
-    color: #33e2a0;
+    color: #EE3243;
     background-image: linear-gradient(-45deg, #d6f9ec 0%, #d6f9ec 100%);
 }
 
@@ -1490,7 +1490,7 @@ h2 > sup {
 }
 
 .iq-portfolio .portfolio-info a:hover span {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .portfolio-info h6 {
@@ -1593,7 +1593,7 @@ h2 > sup {
 }
 
 .iq-pricing-table .nav-pills .nav-link.active, .iq-pricing-table .nav-pills .show > .nav-link, .iq-pricing-table .nav-pills .nav-link:hover {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
     -webkit-box-shadow: 0px 6px 20px -5px rgba(0, 0, 0, 0.20);
     -moz-box-shadow: 0px 6px 20px -5px rgba(0, 0, 0, 0.20);
@@ -1984,7 +1984,7 @@ Faq section
     right: 0;
     display: block;
     padding: 14px 0;
-    color: #33e2a0;
+    color: #EE3243;
     font-size: 20px;
     line-height: 24px;
     height: 100%;
@@ -2072,7 +2072,7 @@ footer .contact a {
 }
 
 footer .contact a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .footer-three {
@@ -2110,11 +2110,11 @@ footer.footer-two .footer-link li a {
 }
 
 footer.footer-two .footer-link li a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 footer.footer-two .footer-link li a:hover::before {
-    background: #33e2a0;
+    background: #EE3243;
 }
 
 footer.footer-two .footer-links li a {
@@ -2199,7 +2199,7 @@ footer.footer-two .footer-copyright {
 }
 
 footer.footer-two .footer-copyright a {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 footer.footer-two .footer-copyright a:hover {
@@ -3001,7 +3001,7 @@ OWL Carousel
 }
 
 .owl-carousel .owl-nav i:hover {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
 }
 
@@ -3057,13 +3057,13 @@ OWL Carousel
 }
 
 .owl-carousel .owl-dots .owl-dot:hover span {
-    background: #33e2a0;
-    border: 1px solid #33e2a0;
+    background: #EE3243;
+    border: 1px solid #EE3243;
 }
 
 .owl-carousel .owl-dots .owl-dot.active span {
-    background: #33e2a0;
-    border: 1px solid #33e2a0;
+    background: #EE3243;
+    border: 1px solid #EE3243;
 }
 
 /*------------------
@@ -3113,7 +3113,7 @@ Progress Bar
 }
 
 .iq-progress.light-green .iq-progress-bar > span {
-    background: #33e2a0;
+    background: #EE3243;
 }
 
 /*=====================
@@ -3375,7 +3375,7 @@ Tab
     content: ". . .";
     position: absolute;
     bottom: 15px;
-    color: #33e2a0;
+    color: #EE3243;
     text-align: center;
     width: 100%;
     left: 0;
@@ -3410,7 +3410,7 @@ Tab
 }
 
 #iq-tab .tab-content .services:hover h6 {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .services-tab .nav-pills {
@@ -3616,7 +3616,7 @@ section.iq-blogs {
 }
 
 .main-blog .blog-detail .blog-info ul li a:hover i {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .iq-blogs .pagination li {
@@ -3635,7 +3635,7 @@ section.iq-blogs {
 }
 
 .main-blog .blog-detail a:hover h5 {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .main-blog .blog-detail h5 {
@@ -3719,8 +3719,8 @@ Paging
 }
 
 .iq-blogs .page-item.active .page-link, .iq-blogs .page-item .page-link:hover, .iq-blogs .page-item .page-link:focus {
-    background: #33e2a0;
-    border-color: #33e2a0;
+    background: #EE3243;
+    border-color: #EE3243;
     border-radius: 90px;
     text-align: center;
     color: #ffffff;
@@ -3784,7 +3784,7 @@ Iq Pproject Info
 }
 
 .iq-project-info .media:hover h5 a, .iq-service-info .media:hover h5 a {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 ul.iq-project-info {
@@ -3808,7 +3808,7 @@ h3.d-inline-block.iq-fw-8 {
 side-bar
 ----------------*/
 .iq-blogs .media a h6:hover {
-    color: #33e2a0
+    color: #EE3243
 }
 
 .iq-blogs .iq-widget-search a {
@@ -3819,7 +3819,7 @@ side-bar
     width: 48px;
     height: 48px;
     line-height: 48px;
-    background: #33e2a0;
+    background: #EE3243;
     font-size: 18px;
     border-radius: 90px;
     top: 4px;
@@ -3923,7 +3923,7 @@ Blockquote
 }
 
 .blog-finding ul li a:hover i {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .iq-blockquote h5 {
@@ -4021,7 +4021,7 @@ Team
     width: 45px;
     text-align: center;
     line-height: 45px;
-    background-color: #33e2a0;
+    background-color: #EE3243;
     color: #ffffff;
     -webkit-border-radius: 90px;
     -moz-border-radius: 90px;
@@ -4076,7 +4076,7 @@ Team
 }
 
 .team-hover ul li a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .team-box:hover .team-plus {
@@ -4148,7 +4148,7 @@ about-me
 
 .team-name .media i {
     font-size: 25px;
-    color: #33e2a0;
+    color: #EE3243;
     line-height: 40px;
 }
 
@@ -4179,7 +4179,7 @@ about-me
 }
 
 .iq-team-details .download-link a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 /*----------------
@@ -4195,7 +4195,7 @@ team-detail
 
 .team-info .media i {
     font-size: 25px;
-    color: #33e2a0;
+    color: #EE3243;
     line-height: 40px;
 }
 
@@ -4230,7 +4230,7 @@ team-detail
 }
 
 .iq-team-info .download-link a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 /*----------------
@@ -4246,7 +4246,7 @@ team-detail
 
 .team-info .media i {
     font-size: 25px;
-    color: #33e2a0;
+    color: #EE3243;
     line-height: 40px;
 }
 
@@ -4281,7 +4281,7 @@ team-detail
 }
 
 .iq-team-info .download-link a:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 /*----------------
@@ -4297,8 +4297,8 @@ Process-
     height: 86px;
     right: -49px;
     position: absolute;
-    background-color: #33e2a0;
-    background-image: linear-gradient(-45deg, #33e2a0 0%, #33e2a0 100%);
+    background-color: #EE3243;
+    background-image: linear-gradient(-45deg, #EE3243 0%, #EE3243 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     animation: one-animated 10s infinite;
     overflow: hidden;
@@ -4331,8 +4331,8 @@ Process-
     height: 515px;
     margin: auto;
     position: relative;
-    background-color: #33e2a0;
-    background-image: linear-gradient(-45deg, #33e2a0 0%, #33e2a0 100%);
+    background-color: #EE3243;
+    background-image: linear-gradient(-45deg, #EE3243 0%, #EE3243 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
     animation: one-animated 5s infinite;
@@ -4525,7 +4525,7 @@ Time-Line Education
 .left-detail:before {
     height: 20px;
     width: 20px;
-    background: #33e2a0;
+    background: #EE3243;
     content: "";
     border-radius: 90px;
     position: absolute;
@@ -4536,7 +4536,7 @@ Time-Line Education
 .left-details:before {
     height: 20px;
     width: 20px;
-    background: #33e2a0;
+    background: #EE3243;
     content: "";
     border-radius: 90px;
     position: absolute;
@@ -4574,7 +4574,7 @@ Brand Section
 
 .contact-icon {
     font-size: 24px;
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .contact-ifream {
@@ -4636,7 +4636,7 @@ How work section
 }
 
 .iq-work .readmore:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .iq-work-id {
@@ -4659,7 +4659,7 @@ How work section
 }
 
 .iq-work:hover .iq-work-id {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
 }
 
@@ -4798,7 +4798,7 @@ Tab
     content: ". . .";
     position: absolute;
     bottom: 15px;
-    color: #33e2a0;
+    color: #EE3243;
     text-align: center;
     width: 100%;
     left: 0;
@@ -4833,7 +4833,7 @@ Tab
 }
 
 #iq-tab .tab-content .services:hover h6 {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .services-tab .nav-pills {
@@ -5096,7 +5096,7 @@ How work section
 }
 
 .iq-offers .readmore:hover {
-    color: #33e2a0;
+    color: #EE3243;
 }
 
 .iq-offers-id {
@@ -5119,7 +5119,7 @@ How work section
 }
 
 .iq-offers:hover .iq-offers-id {
-    background: #33e2a0;
+    background: #EE3243;
     color: #ffffff;
 }
 
@@ -5229,7 +5229,7 @@ How work section
 }
 
 .iq-slolution-details.seo .icon span {
-    border: 1px dashed #33e2a0;
+    border: 1px dashed #EE3243;
     height: 100px;
     width: 100px;
     display: inherit;

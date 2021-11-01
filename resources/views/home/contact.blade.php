@@ -1,4 +1,4 @@
-<section class="iq-contact-us pb-0 bg-light mb-5" id="contact">
+<section class="iq-contact-us pb-0 bg-light mb-5" id="contact" style="    padding-bottom: 50px!important;">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">

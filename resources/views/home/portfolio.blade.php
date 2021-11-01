@@ -1,4 +1,4 @@
-<section class="iq-solutions pt-0" id="portfolio">
+<section class="iq-solutions bg-light" id="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
@@ -8,7 +8,7 @@
                 </div>
             </div>
         </div>
-        <div class="iq-portfolio-page overview-block-ptb overview-block-pb5">
+        <div class="iq-portfolio-page ">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
