@@ -14,8 +14,6 @@
             <div id="clients-sliderr" class="owl-carousel owl-theme owl-loaded owl-drag" data-dots="false"
                  data-nav="false" data-items="5" data-items-laptop="5" data-items-tab="4" data-items-mobile="3"
                  data-items-mobile-sm="2" data-autoplay="true" data-margin="30">
-
-
                 <div class="owl-stage-outer">
                     <div class="owl-stage"
                          style="transform: translate3d(-480px, 0px, 0px); transition: all 0.25s ease 0s; width: 1680px;">

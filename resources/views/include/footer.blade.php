@@ -65,60 +65,8 @@
 
                 </div>--}}
                 <div class="col-lg-4 col-md-6">
-                    <div class="testimonials">
-                        <div id="iqtestimonials" class="owl-carousel riq-mt-40" data-autoplay="true" data-loop="true" data-nav="false" data-dots="false" data-items="1" data-items-laptop="1" data-items-tab="1" data-items-mobile="1" data-items-mobile-sm="1" data-margin="15">
-                            <div class="item">
-                                <div class="desc">
-                                    <p class="mb-0">Progravida <span class="text-black iq-fw-7">#nibh vel velit auctor</span> alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,Lorem Ipsum. <a href="javascript:void(0)#" class="text-black iq-fw-7">https://AdbLiv.com</a></p>
-                                </div>
-                                <div class="author">
-                                    <div class="float-left d-flex mr-3">
-                                        <i class="fab fa-twitter text-white"></i>
-                                    </div>
-                                    <div class=" float-left ">
-                                        <div class="overview">
-                                            <a>
-                                                <h6 class="name text-black mb-0">AdbLiv</h6>
-                                            </a>
-                                            <div class="details">2 Months Ago</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="desc">
-                                    <p class="mb-0">Progravida <span class="text-black iq-fw-7">#nibh vel velit auctor</span> alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,Lorem Ipsum. <a href="javascript:void(0)" class="text-black iq-fw-7">https://AdbLiv.com</a></p>
-                                </div>
-                                <div class="author">
-                                    <div class="float-left d-flex mr-3">
-                                        <i class="fab fa-twitter text-white"></i>
-                                    </div>
-                                    <div class=" float-left ">
-                                        <div class="overview">
-                                            <h6 class="name text-black mb-0">AdbLiv</h6>
-                                            <div class="details">2 Months Ago</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="desc">
-                                    <p class="mb-0">Progravida <span class="text-black iq-fw-7">#nibh vel velit auctor</span> alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum,Lorem Ipsum. <a href="javascript:void(0)" class="text-black iq-fw-7">https://AdbLiv.com</a></p>
-                                </div>
-                                <div class="author">
-                                    <div class="float-left d-flex mr-3">
-                                        <i class="fab fa-twitter text-white"></i>
-                                    </div>
-                                    <div class=" float-left ">
-                                        <div class="overview">
-                                            <h6 class="name text-black mb-0">AdbLiv</h6>
-                                            <div class="details">2 Months Ago</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                 <h5><i class="fa fa-address-book"></i> Office Address</h5>
+                    <p>147/C, Green Road,<br> Dhaka-1215,Bangladesh.</p>
                 </div>
             </div>
 
