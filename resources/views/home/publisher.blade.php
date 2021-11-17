@@ -119,6 +119,11 @@
                                 <img src="/images/Publisher/20.png" class="img-fluid " alt="">
                             </div>
                         </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/Publisher/21.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="owl-nav disabled">
