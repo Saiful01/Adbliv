@@ -77,6 +77,21 @@
                                 <img src="/images/advertise/12.png" class="img-fluid " alt="">
                             </div>
                         </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/advertise/13.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/advertise/14.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/advertise/15.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
 
                     </div>
                 </div>

@@ -49,6 +49,16 @@
                                 <img src="/images/LOGO/Agency/6.png" class="img-fluid " alt="">
                             </div>
                         </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/LOGO/Agency/7.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 210px; margin-right: 30px;">
+                            <div class="clients-box">
+                                <img src="/images/LOGO/Agency/8.png" class="img-fluid " alt="">
+                            </div>
+                        </div>
 
                     </div>
                 </div>
