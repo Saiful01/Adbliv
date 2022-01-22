@@ -34,7 +34,7 @@ Route::post('/contact/save', function (\Illuminate\Http\Request $request) {
    // $msg = wordwrap($msg, 70);
 
 // send email
-    mail("saiful013101@gmail.com", "ADBLiv Website Message", $msg);
+    mail("contact@adbliv.com", "ADBLiv Website Message", $msg);
 
     return back()->with('success', " Your Message Successfully Send");
 
